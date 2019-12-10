@@ -93,6 +93,8 @@ const Body = () => {
         </a>
         <br></br>
         <a href="https://github.com/regharris/my-portfolio-reg">Portfolio</a>
+        <br></br>
+        <a href="https://portfolioreg.herokuapp.com/">See portfolio live</a>
       </section>
     </div>
   );
