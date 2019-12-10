@@ -87,6 +87,10 @@ const Body = () => {
           <br></br>7042419649
         </p>
         <a href="https://github.com/regharris">Github</a>
+        <br></br>
+        <a href="https://www.linkedin.com/in/reginald-harris-7147a7194?trk=people-guest_profile-result-card_result-card_full-click">
+          LinkedIn
+        </a>
       </section>
     </div>
   );

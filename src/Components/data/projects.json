@@ -1,13 +1,6 @@
 {
   "projects": [
     {
-      "projectName": "New York Website",
-      "projectLink": "https://codepen.io/Regharris0504/project/editor/AdONva",
-      "projectDescription": "Creating a Frontend website using HTML and CSS exploring a place im interested in visiting",
-      "projectImage": "../projimg/gatewayproject.png"
-    },
-
-    {
       "projectName": "Power Lab Ecom 1",
       "projectLink": "https://github.com/regharris/ecommerceapp",
       "projectDescription": "This a full Stack ecommerce website, In this version im using node.js as the backend and mySQL as the database where products are stored.",
