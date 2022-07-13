@@ -1,5 +1,5 @@
 import React from "react";
-import res from "../img/portfolio_resume.png";
+import res from "../img/ReginaldResume.png";
 import Projects from "./projects";
 
 const Body = () => {
@@ -84,7 +84,7 @@ const Body = () => {
         </p>
         <p>
           <b>Mobile:</b>
-          <br></br>7042419649
+          <br></br>704-309-6768
         </p>
         <a href="https://github.com/regharris">Github</a>
         <br></br>
